@@ -1,6 +1,0 @@
-train: E:/django-student-attendance-system-master/train/train/images
-val: E:/django-student-attendance-system-master/trainval/images
-
-nc: 4  # Number of classes
-
-names: ["with helmet", "without helmet", "rider", "number plate"]
